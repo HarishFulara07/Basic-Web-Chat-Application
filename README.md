@@ -1,3 +1,7 @@
+# Basic Web Chat Application
+
+**Note**: You can find more information in [documentation.pdf] (https://github.com/HarishFulara07/Basic-Web-Chat-Application/blob/master/documentation/documentation.pdf) inside the documentation directory
+
 <------Compile the code using the following command------>
 
 make
