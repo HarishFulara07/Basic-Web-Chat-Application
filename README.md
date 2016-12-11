@@ -1,5 +1,7 @@
 # Basic Web Chat Application
 
+Basic web chat application on the lines of IRC.
+
 **Note**: You can find detailed information about the application in [documentation.pdf] (https://github.com/HarishFulara07/Basic-Web-Chat-Application/blob/master/documentation/documentation.pdf) inside the documentation directory.
 
 <br>
