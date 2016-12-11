@@ -1,6 +1,10 @@
 # Basic Web Chat Application
 
-**Note**: You can find more information in [documentation.pdf] (https://github.com/HarishFulara07/Basic-Web-Chat-Application/blob/master/documentation/documentation.pdf) inside the documentation directory
+**Note**: You can find detailed information about the application in [documentation.pdf] (https://github.com/HarishFulara07/Basic-Web-Chat-Application/blob/master/documentation/documentation.pdf) inside the documentation directory.
+
+<br>
+
+### How to run the application?
 
 <------Compile the code using the following command------>
 
